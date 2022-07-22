@@ -1,10 +1,17 @@
 import os
 from pathlib import Path
-"""
 
--> File Type Database
--> Created by Sibin Thomas
--> Created on 2022/07/22
+
+"""
+-------------------------------------------------------------------------------
+
+                File Type Database
+                
+->      Created by       :   Sibin Thomas
+->      Created on       :   2022/07/22
+->      Last updated on  :   2022/07/22
+
+-------------------------------------------------------------------------------
 
 """
 class Collection:
